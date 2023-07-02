@@ -64,7 +64,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0C0C1D',
+    backgroundColor: '#90FFDC',
   },
 
   header: {
@@ -77,11 +77,10 @@ const styles = StyleSheet.create({
 
   title: {
     fontSize: 34,
-    color:'white',
   },
 
   articleWrapper: {
-    // backgroundColor: 'black',
+    backgroundColor: 'black',
     padding: 5,
     flexDirection: 'row',
     flexWrap: 'wrap',
